@@ -9,4 +9,5 @@ Implementar pequenos programas baseados em desafios progressivos.
 
 Organizar seu código em um repositório GitHub.
 
-
+    Conceitos:
+Variaveis, tipos de dados, bibliotecas
